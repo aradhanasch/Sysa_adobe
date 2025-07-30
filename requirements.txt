@@ -1,0 +1,17 @@
+# PDF parsing
+pymupdf==1.23.6
+pdfminer.six==20221105
+
+# For ML/heuristics
+scikit-learn==1.3.2
+numpy==1.26.4
+pandas==2.1.4
+
+# For multilingual/unicode support
+regex==2023.12.25
+
+# For CLI and file handling
+click==8.1.7
+
+# For model persistence (optional)
+joblib==1.3.2 
