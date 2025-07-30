@@ -1,0 +1,10 @@
+{
+  "min_heading_length": 3,
+  "max_heading_length": 120,
+  "heading_numbering": true,
+  "all_caps_bonus": true,
+  "title_case_bonus": true,
+  "bold_bonus": true,
+  "font_size_tolerance": 0.5,
+  "repeat_threshold": 0.7
+} 
