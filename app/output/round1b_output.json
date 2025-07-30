@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Cryptography and Digital Sig",
+      "report cyber"
+    ],
+    "persona": "PhD Researcher in Cybersecurity",
+    "job_to_be_done": "Analyze network security methodologies and threat detection techniques",
+    "processing_timestamp": "2025-07-28T17:12:46.095279"
+  },
+  "extracted_sections": [
+    {
+      "document": "Cryptography and Digital Sig",
+      "page_number": 11,
+      "section_title": "Step-01:",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "Cryptography and Digital Sig",
+      "page_number": 11,
+      "section_title": "Step-02:",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "Cryptography and Digital Sig",
+      "page_number": 11,
+      "section_title": "Step-03:",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 1,
+      "section_title": "Introduction to DecoyNet: A Deployable SSH",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 1,
+      "section_title": "Honeypot",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 2,
+      "section_title": "Abstract",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 4,
+      "section_title": "Literature Review",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 5,
+      "section_title": "Proposed Work: DecoyNet Features and",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 5,
+      "section_title": "Purpose",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "report cyber",
+      "page_number": 6,
+      "section_title": "1.",
+      "importance_rank": 0.0
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Cryptography and Digital Sig",
+      "section_title": "Step-01:",
+      "refined_text": "Cybersecurity relevance score: 0.00",
+      "page_number": 11
+    },
+    {
+      "document": "Cryptography and Digital Sig",
+      "section_title": "Step-02:",
+      "refined_text": "Cybersecurity relevance score: 0.00",
+      "page_number": 11
+    },
+    {
+      "document": "Cryptography and Digital Sig",
+      "section_title": "Step-03:",
+      "refined_text": "Cybersecurity relevance score: 0.00",
+      "page_number": 11
+    },
+    {
+      "document": "report cyber",
+      "section_title": "Introduction to DecoyNet: A Deployable SSH",
+      "refined_text": "Cybersecurity relevance score: 0.00",
+      "page_number": 1
+    },
+    {
+      "document": "report cyber",
+      "section_title": "Honeypot",
+      "refined_text": "Cybersecurity relevance score: 0.00",
+      "page_number": 1
+    }
+  ]
+}
